@@ -1,13 +1,9 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
-pagination:
-  data: collections.all
-  reverse: true
-  size: 50
-posts:
-  title: Getting started
+title: "A design history for the SDD Services"
+description: "Documented and shared design decisions. Creating a permanent record of how our services have developed over time."
+sections:
+  title: Services
 eleventyComputed:
   eleventyNavigation:
     key: home
