@@ -1,14 +1,14 @@
-# Design history for GOV.UK services
+# Design history for the DfE SDD services
 
-A place for you to document your GOV.UK service designs.
+A place to document your our services designs.
 
-<https://design-history.herokuapp.com>
+<https://sdd-design-history.netlify.app>
 
 ## Purpose of this project
 
 This repository makes it easy to:
 
-* screenshot your designs
+* screenshot our designs
 * create pages of screenshots to document designs
 * document designs using the [GOV.UK Design System](https://design-system.service.gov.uk/)
 * print pages of designs
