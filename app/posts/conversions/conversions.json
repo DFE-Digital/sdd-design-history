@@ -1,6 +1,8 @@
 {
-  "tags": ["conversions"],
+  "tags": [
+    "conversions"
+  ],
   "eleventyNavigation": {
-    "parent": "Apply to Become"
+    "parent": "Conversions"
   }
 }

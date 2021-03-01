@@ -28,7 +28,7 @@ To explore if there are any other technological options that would enable SDD to
 * Allow us to adapt our service quickly following user feedback, in a cost effective way
 
 
-As of January 2021, the [Academy transfers prototype](https://at-prototype.london.cloudapps.digital) includes more than 17 different pages exploring how we can allow RDD agents to interact with real dynamics 365 data held in TRAMS.
+As of January 2021, the [Academy transfers prototype](https://academy-transfers-prototype.london.cloudapps.digital) includes more than 17 different pages exploring how we can allow RDD agents to interact with real dynamics 365 data held in TRAMS.
 
 
 You can learn more about how and why other  teams created their design history on the [DfE Digital blog](https://dfedigital.blog.gov.uk/2020/09/01/design-history/).
