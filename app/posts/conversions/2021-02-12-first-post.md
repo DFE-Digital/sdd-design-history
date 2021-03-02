@@ -3,6 +3,14 @@ title: First post
 description: Our first design based on user needs, our findings from private beta and implementation of GDS patterns.
 date: 2021-02-12
 parent: Academy Conversions
+
+related:
+  items:
+  - text: User needs
+    href: user_needs
+  - text: Glossary
+    href: glossary
+
 ---
 
 ### Date the work was done

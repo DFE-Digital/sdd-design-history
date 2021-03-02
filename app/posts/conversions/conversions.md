@@ -14,7 +14,3 @@ eleventyComputed:
 ## Posts
 
 ### [First post](first-post/)
-
-### [Glossary](glossary/)
-
-### [User needs](user_needs/)
