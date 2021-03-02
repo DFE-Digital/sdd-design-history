@@ -7,9 +7,9 @@ parent: Academy Conversions
 related:
   items:
   - text: User needs
-    href: user_needs
+    href: /conversions/user_needs
   - text: Glossary
-    href: glossary
+    href: /conversions/glossary
 
 ---
 
