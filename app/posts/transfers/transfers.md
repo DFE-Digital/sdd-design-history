@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: Academy Transfers
-description: Learn how the Academy Transfers digital discovery team has started a GDS style application.
+description: An internal service for DfE colleagues to manage school applications for Academies to transfer from one Trust to another or form a new Trust.
 permalink: "transfers/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
   eleventyNavigation:
