@@ -2,7 +2,7 @@
 title: First post
 description: Our first design based on user needs, our findings from private beta and implementation of GDS patterns.
 date: 2021-02-12
-parent: Conversions
+parent: Academy Conversions
 ---
 
 ### Date the work was done

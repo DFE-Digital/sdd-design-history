@@ -2,7 +2,7 @@
 layout: page
 title: Glossary
 description: A collection of terms commonly used across the conversions service
-parent: Conversions
+parent: Academy Conversions
 ---
 
 
