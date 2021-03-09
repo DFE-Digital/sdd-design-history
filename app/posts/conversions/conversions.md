@@ -12,6 +12,3 @@ eleventyComputed:
     parent: home
 ---
 
-## Posts
-
-### [First post](first-post/)
