@@ -32,6 +32,6 @@ As of January 2021, the [Academy transfers prototype](https://academy-transfers-
 
 ### [Experimenting with Variants](variants/)
 
-### [Choosing a starting page](starting-page/)
+### [Choosing a starting page](choosing/)
 
-### [Adopting a projects overview style](projects-overview/)
+### [Adopting a projects overview style](project/)
