@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "glossary"
+  ],
+  "eleventyNavigation": {
+    "parent": "glossary"
+  }
+}
