@@ -1,5 +1,5 @@
 ---
-tags: false
+tags: posts
 layout: collection
 title: Significant Change
 description: An internal service for DfE colleagues to manage Trusts, academies and their significant changes.

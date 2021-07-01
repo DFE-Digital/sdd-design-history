@@ -1,5 +1,5 @@
 ---
-tags: false
+tags: posts
 layout: collection
 title: Academy Transfers
 description: An internal service for DfE colleagues to manage Academy transfers from one Trust to another.
