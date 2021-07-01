@@ -1,5 +1,5 @@
 ---
-tags: false
+tags: reference
 layout: page
 title: A to Z Glossary
 description: A collection of terms commonly used across the SDD service lines.
@@ -7,10 +7,10 @@ eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
-
     permalink: false
-    parent: glossary
+    parent: home
 ---
+
 
 # A
 

@@ -72,7 +72,7 @@
               {{ sections.title or app.sections.title or "Services" }}
             </h2>
           </div>
-          {% for item in collections.all | eleventyNavigation("home") %}
+          {% for item in collections.posts | eleventyNavigation("home") %}
             <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
               <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
                 <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
@@ -80,17 +80,21 @@
               <p class="govuk-body">{{ item.excerpt }}</p>
 </section>      
           {% endfor %}
-        {% endif %}
-              <div class="govuk-grid-column-one-half"><h2 class="govuk-heading-l govuk-!-font-size-27"> Reference</h2>
-
- <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
-                 <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
-                <a href="/glossary/glossary/">A to Z glossary</a>
+          <div class="govuk-grid-column-full">
+            <h2 class="govuk-heading-l govuk-!-font-size-27">
+              Reference
+            </h2>
+          </div>
+          {% for item in collections.reference | eleventyNavigation("home") %}
+            <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
+              <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+                <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
               </h3>
-                <p class="govuk-body">A collection of terms commonly used across the SDD service lines.</p>
-              
-        </div>
-      </div>
+              <p class="govuk-body">{{ item.excerpt }}</p>
+            </section>
+          {% endfor %}
+        {% endif %}
+              </div>
     {% endblock %}
     </main>
   </div>
