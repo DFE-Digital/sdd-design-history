@@ -1,5 +1,5 @@
 ---
-tags: false
+tags: posts
 layout: collection
 title: Concerns Casework
 description: An internal service for DfE colleagues to manage Trusts with pending concerns.
