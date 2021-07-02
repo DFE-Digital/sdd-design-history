@@ -1,15 +1,15 @@
 ---
 tags: posts
 layout: collection
-title: Significant Change
-description: An internal service for DfE colleagues to manage Trusts, academies and their significant changes.
+title: Make changes to an academy
+description: A service to help trusts understand what changes they need to make an application for, and for SDD Delivery Officers to manage those applications.
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
-    url: "https://sdd-significant-change-design-history.netlify.app/"
+    url: "https://sdd-make-changes-design-history.netlify.app/"
     permalink: false
     parent: home
 ---
 
-### This is a place holder for the Significant change team's design history blogs.
+
