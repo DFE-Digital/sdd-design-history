@@ -45,9 +45,6 @@ The articles also provide a framework for trusts to act within company and chari
 Caseworker
 : a named contact within the academy and maintained schools directorate (AMSD) who manages casework relating to concerns about a school, particularly financial concerns.
 
-Chair of Governors (CoG)
-: the leadership within a school governance system.
-
 Commercial transfer agreement (CTA)
 : a document that is signed by the school and the trust and sets out how any contracts (like staff contracts) will transfer to the trust when the school converts to an academy.
 
@@ -75,9 +72,6 @@ Data and reporting tool (DaRT)
 
 Delivery officer (DO)
 : the main users for the academy conversion and academy transfer internal service. They handle the internal applications for schools converting to academies, academies transfering to another trust and academies making changes. They are the lead contact for schools and trusts throughout the conversion process. They can also sometimes be called ‘project leads’ or ‘delivery leads’.
-
-Directive academy order (dAO)
-: a dAO is given to a school when it receives an inadequate Ofsted rating. Schools judged Inadequate (Category 4) by Ofsted must legally become an academy.
  
 Deed of Variation (DoV)
 : this document is required when there is a change on the funding agreement of the trust or academy. For example, if the trust's name changes.
@@ -89,8 +83,6 @@ Deed of Variation (DoV)
 Education and Skills Funding Agency (ESFA)
 : the ESFA is a combination of the previous Education Funding Agency (EFA) and Skills Funding Agency (SFA). It’s now a single agency accountable for funding education and skills for children, young people and adults. Within the conversion service, the ESFA handles financial concerns with schools and trusts and makes sure a school’s finances are in a good position to become an academy.
 
-Establishment
-: another word for a school, this includes academies, free schools, university technical colleges (UTCs) and local authority maintained schools.
 </br>
 
 ## F
@@ -143,9 +135,6 @@ Knowledge and Information Management (KIM)
 
 Land questionnaire
 : this should be filled out by the school or trust’s solicitors during a conversion. It's used to establish how the school’s land is currently managed and how it will transfer from the local authority or owner of the land to the trust. It needs to be completed after the HTB meeting when the conversion has been approved.
-
-Local authority establishment number (LAESTAB)
-: seven digit number to refer to an establishment. It also tells you which local authority the establishment is in.
 
 Legal Advisor's Office (LAO)
 : this team can give delivery officers advice if they are dealing with a conversion or transfer that has complex legal issues.
@@ -256,15 +245,6 @@ Transfer of Undertakings (Protection of Employment) (TUPE)
 </br>
 
 ## U
-
-UKPRN
-: an eight digit number to refer to a school or an academy
-
-UPIN
-: reference number for academy used by Education and Skills Funding Agency
-
-University Technical College (UTC)
-: a type of academy establishment
 
 Unique reference number (URN)
 : a six digit number to refer to a school or academy
