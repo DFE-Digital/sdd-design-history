@@ -112,7 +112,7 @@ Funding agreement (FA)
 ## G
 
 Get Information About Schools (GIAS)
-: this is a register of schools and colleges in England. You can use GIAS to search for and download information on establishments, establishment groups (such as a local authority, trust or federation) or governors. Go to get information about schools.
+: this is a register of schools and colleges in England. You can use GIAS to search for and download information on establishments, establishment groups (such as a local authority, trust or federation) or governors.
 
 </br>
 
