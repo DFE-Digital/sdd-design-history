@@ -2,8 +2,7 @@
 tags: posts
 layout: collection
 title: Concerns Casework
-description: An internal service for DfE colleagues to manage trusts with pending concerns.
-permalink: "concerns/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+description: An internal service for AMSD caseworkers to manage trusts and academies with financial, governance, and safeguarding concerns.
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
