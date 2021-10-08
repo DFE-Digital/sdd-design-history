@@ -8,7 +8,7 @@ eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
+    url: "https://concerns-casework-design-history.netlify.app/"
+    permalink: false
     parent: home
 ---
-
-### This is a place holder for the Concerns casework team's design history blogs.
