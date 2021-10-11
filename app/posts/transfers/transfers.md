@@ -1,7 +1,7 @@
 ---
 tags: posts
 layout: collection
-title: Academy Transfers
+title: Manage an academy transfer
 description: An internal service for DfE colleagues to manage Academy transfers from one trust to another.
 permalink: "transfers/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
