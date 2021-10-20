@@ -10,4 +10,5 @@ eleventyComputed:
     url: "https://concerns-casework-design-history.netlify.app/"
     permalink: false
     parent: home
+    order: 1
 ---

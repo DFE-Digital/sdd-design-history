@@ -10,5 +10,6 @@ eleventyComputed:
     url: "https://conversions-design-history.netlify.app/apply-to-become-academy/"
     permalink: false
     parent: home
+    order: 2
 ---
 

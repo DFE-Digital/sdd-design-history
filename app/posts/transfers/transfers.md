@@ -1,14 +1,15 @@
 ---
 tags: posts
-layout: collection
+layout: page
 title: Manage an academy transfer
-description: An internal service for DfE colleagues to manage Academy transfers from one trust to another.
+description: An internal service to help DfE delivery leads to Manage an academy transfer from one trust to an other.
 permalink: "transfers/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
+    order: 3
 ---
 
 ### This project was developed for the SDD at the Department for Education to:

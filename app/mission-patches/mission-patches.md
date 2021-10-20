@@ -1,5 +1,5 @@
 ---
-tags: mission
+tags: reference
 layout: page
 title: Mission patches
 description: Our mission patches, designed by the teams to commemorate key achievements in the design and build of our services.
@@ -10,12 +10,13 @@ eleventyComputed:
     permalink: false
     parent: home
 ---
+
 A Place to add all the work we have done on mission patches.
 
-## Manage an academy transfer
+### Manage an academy transfer
 
-## Manage academy conversions
+### Manage academy conversions
 
-## Concerns casework
+### Concerns casework
 
-## Make changes to an academy
+### Make changes to an academy
