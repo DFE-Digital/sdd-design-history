@@ -78,6 +78,6 @@ Our findings current indicated several areas for further research:
 -	RDD and ESFA teams have data requirements, however, there are currently inefficiencies in the process due to systems not talking to each other.
 -	The process does not discourage files from being stored on local computers, compromising data.
 -	Some data is currently not captured at the most suitable points for use by RDD and ESFA teams.
-- In addition we need to understand more about the expansion of the operational development team (ODT) will effect what we already know.
+- In addition we need to understand more about the expansion of the operational development team (ODT) and how it will effect what we already know.
 
 We reported our findings to the main team, and a BA (Business Analyst) resource has been allocated to start this next piece of work, this will make up the next section of work (part-2).
