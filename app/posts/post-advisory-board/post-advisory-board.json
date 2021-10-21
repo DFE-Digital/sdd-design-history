@@ -1,8 +1,8 @@
 {
   "tags": [
-    "post-ab"
+    "post-advisory-board"
   ],
   "eleventyNavigation": {
-    "parent": "Post-advisory board (AT and A2B)"
+    "parent": "Post advisory board"
   }
 }
