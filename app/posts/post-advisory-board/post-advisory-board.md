@@ -2,7 +2,7 @@
 tags: posts
 layout: page
 title: Post advisory board
-description: A service to help trusts understand what changes they need to make an application for, and for SDD Delivery Officers to manage those applications
+description: Documenting the joint work carried out by the transfers and conversion teams on post advisory board discovery.
 # pagination:
 #   data: collections.post-advisory-board
 #   reverse: true
@@ -18,9 +18,9 @@ eleventyComputed:
 
 ## How we conduted the discovery work for post-advisory board from AT and A2B landscape
 
-Post-advisory board work is split into two parts:
+The post-advisory board discovery work is split into two parts:
 
-* part 1 focusses on synthesising the existing research to create as is user journeys and identifying the pain points from delivery leads
-* part 2 focusses on understanding the busness needs from teams within RDD
+* Part 1 - focusses on synthesising the existing research to create 'as is' user journeys and identifying the pain points for delivery officers
+* Part 2 - will focus on understanding the busness needs from teams within RDD
 
 ### [Starting post AB transfers and conversions – Part 1](part-1-post-ab/)
