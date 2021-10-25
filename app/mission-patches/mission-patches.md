@@ -13,10 +13,5 @@ eleventyComputed:
 
 A Place to add all the work we have done on mission patches.
 
-### Manage an academy transfer
-
-### Manage academy conversions
-
-### Concerns casework
-
-### Make changes to an academy
+## Manage an academy transfer
+<img src="/images/mission-patches/Manage-an-academy-transfer-960x640.png" alt="Mission sticker of Manage an academy transfer project in SDD">
