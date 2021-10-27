@@ -12,27 +12,25 @@ eleventyComputed:
     order: 3
 ---
 
-### This project was developed for the SDD at the Department for Education to:
+## Project vision
 
-* Create a Proof of Concept (PoC) demonstrating how lightweight front ends scoping the “changing a school’s trust” journey can have enhanced user experience and productivity whilst been able to manipulate data from the existing TRAMS system.
+Make it easy and efficient as possible to successfully transfer an academy to a new trust, where it will thrive
 
-### Our goal was 
+## The problem we are trying to solve
 
-To explore if there are any other technological options that would enable SDD to;
+The process to transfer an academy from one trust to an other is currently complex, time consuming, variable and unclear.
 
-* Better serve our users needs
-* Address significant accessibility issues identified with the current approach
-* Allow us to adapt our service quickly following user feedback, in a cost effective way
+## Our hypothesis
 
-As of January 2021, the [Academy transfers prototype](https://academy-transfers-prototype.london.cloudapps.digital) includes more than 17 different pages exploring how we can allow RDD agents to interact with real dynamics 365 data held in TRAMS.
+Designing and developing a service for RDD delivery officers to manage the process of transferring an academy from one trust to an other using TRAMS api and GDS front-end will make the process easier and accessible to our users.
 
 
 ## Iterations
 
-### [Discovery Prototype](academy-transfers-prototype/)
+* [Discovery Prototype](academy-transfers-prototype/)
+* [Experimenting with Variants](variants/)
+* [Choosing a starting page](choosing/)
+* [Adopting a projects overview style](project/)
 
-### [Experimenting with Variants](variants/)
-
-### [Choosing a starting page](choosing/)
-
-### [Adopting a projects overview style](project/)
+## Private Beta changes
+* [Set transfer dates](set-transfer-dates/)
