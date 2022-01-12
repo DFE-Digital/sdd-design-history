@@ -54,7 +54,16 @@ The articles also provide a framework for trusts to act within company and chari
 
 Briefing automation tool ( BAT )
 : Used by AMSD caseworkers, the BAT shows trust financial and governance information to be used in financial analysis and prevention work.
+
+Budget Forecast Return ( BFR )
+: Academy budget documentation. 1yr and 3 yr versions. Data is pulled from Identity and Access Management Service (IDAMS) using a Power-BI BFR tool.
+
+</br>
+
 ## C
+
+Case
+: In AMSD concerns this is essentially a conversation with a trust around a concern or multiple concerns that they are being helped with.
 
 Caseworker
 : a named contact within the Academy and Maintained Schools Directorate (AMSD) who manages casework relating to concerns about a school, particularly financial concerns.
@@ -67,6 +76,9 @@ Commercial transfer agreement ( CTA )
 
 Companies House number
 : a seven digit reference number for trusts, registered for the legal entity of the trust and can be found on the Companies House website.
+
+Concern
+: Something related to non educational performance (finance, governance, safegarding , irregularity) that the Dept wants to tackle at a Trust.
 
 Conversion support grant
 : funding given to a school to pay for the costs of a conversion. It is £25 000 and can only be spent on specific things like legal advice, costs of software, TUPE advice, re-branding costs and expenses from setting up an academy trust.
@@ -113,9 +125,6 @@ Financial benchmarking
 Financial deficit
 : academies are expected to recover from a financial deficit within 3 years. When a school converts to an academy or transfers to a new trust, the delivery officer needs to check the school does not have a financial deficit. If the financial deficit is too much, the school might not be able to convert.
 
-Financial Notice to Improve Dashboard ( FNtI Dashboard )
-: A dashboard for logging FNtI cases.
-
 Fraud tool
 : Used by the fraud team to register cases of fraud.
 
@@ -152,6 +161,9 @@ Headteacher board template ( HTB template ) (sometimes called project template)
 ## I
 Identity and Access Management Service ( IDAMS )
 Trusts can use this portal to submit their financial data such as Accounts Return, BFR and BFRO.
+
+</br>
+
 ## J
 
 ## K
@@ -176,7 +188,8 @@ Local authority information template ( LA proforma )
 : this template is sent to the local authority right at the beginning of the conversion process. The LA is expected to fill it out and send it back to the delivery officer. The delivery officer will use the information from the LA to make sure the information provided by the school is correct.
 
 Local authority maintained school
-: maintained schools are those that are funded and controlled by the local education authority
+: maintained schools are those that are funded and controlled by the local education authority.
+
 </br>
 
 ## M
@@ -187,9 +200,16 @@ Multi-academy trust ( MAT )
 Trust or sponsor template ( MAT template )
 : this is a document, usually completed by a delivery officer, that contains info about a trust like finances and educational health. This is usually maintained by the trust relationship manager (sometimes the delivery officer and the trust relationship manager are the same person)
 
+Management Information ( MI )
+: Data collected from DaRT and other systems and fed back to management for analysis.
+
 </br>
 
 ## N
+Notice To Improve (NTI)
+: When a case becomes very serious for a trust, a Notice To Improve is issued. If the conditions laid out are not met, the trust could be closed down.
+
+</br>
 
 ## O
 ## P
@@ -209,6 +229,9 @@ Private finance initiative ( PFI )
 
 Project lead ( PL )
 : project leads handle the internal application for schools converting to academies, academies transfering to another trust and significant change applications. They are the lead contact for schools and trusts throughout the conversion process. They should now be referred to as ‘delivery officers’ or ‘delivery leads’.
+
+Provider Market Oversight ( PMO )
+: This team reviews budget forecast returns (BFRs) every year and raise issues if required. Department financial experts.
 
 Published admission number  (PAN )
 : the published admission number is the number of pupils in each year group that the admission authority has agreed will be admitted without causing problems for the school.
@@ -244,6 +267,9 @@ Risk Protection Arrangement ( RPA )
 
 ## S
 
+School Resource Management Advisor ( SRMA )
+: A school management expert who is paid to go into a trust/academy and advise on how they can be more efficient.
+
 School System Infrastructure Directorate ( SSID )
 : Responsible for managing policy in the running of academy trusts.
 
@@ -278,6 +304,9 @@ Team leader ( TL )
 Transfer of Undertakings (Protection of Employment) ( TUPE )
 : the TUPE process protects employees' rights when they get a new employer. For example, when an academy transfers from one trust to another, the academy's staff will be employed by the new trust instead of the old trust. The TUPE process will protect their employment rights when they transfer.
 
+Trust
+: A legal entity that manages one to many academies.
+
 Trust and Academy Management Service ( TRAMS )
 : the Service Delivery Division (SDD) wide service that will replace KIM and various other tools. It will be used by delivery officers to look up information on academies and trusts.
 
@@ -290,6 +319,7 @@ Trust reference number
 
 Unique reference number ( URN )
 : a six digit number to refer to a school or academy
+
 </br>
 
 ## V
