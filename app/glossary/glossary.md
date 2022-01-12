@@ -310,6 +310,9 @@ Trust
 Trust and Academy Management Service ( TRAMS )
 : the Service Delivery Division (SDD) wide service that will replace KIM and various other tools. It will be used by delivery officers to look up information on academies and trusts.
 
+Trust Financial Forecasting Tool ( TFF Tool )
+: Uses Budget Forecast Return (BFR) data to predict the financial position of a trust for the next 3 years and identify if a trust may need assistance.
+
 Trust reference number
 : a five digit number referring to a trust, for example TR01111
 
