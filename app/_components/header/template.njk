@@ -3,7 +3,7 @@
   <div class="govuk-header__container govuk-width-container app-header__container">
     <div class="govuk-header__logo app-header__logo">
       <a href="{{ params.homepageUrl | default('/') }}" class="govuk-header__link govuk-header__link--homepage">
-        <span class="govuk-header__logotype">
+        <!-- <span class="govuk-header__logotype">
           {#- We use an inline SVG for the crown so that we can cascade the
           currentColor into the crown whilst continuing to support older browsers
           which do not support external SVGs without a Javascript polyfill. This
@@ -40,7 +40,8 @@
           <span class="govuk-header__logotype-text">
             GOV.UK
           </span>
-        </span>
+        </span> -->
+        
         {% if (params.productName) %}
         <span class="govuk-header__product-name">
           {{ params.productName }}

@@ -160,7 +160,7 @@ Headteacher board template ( HTB template ) (sometimes called project template)
 
 ## I
 Identity and Access Management Service ( IDAMS )
-Trusts can use this portal to submit their financial data such as Accounts Return, BFR and BFRO.
+: Trusts can use this portal to submit their financial data such as Accounts Return, BFR and BFRO.
 
 </br>
 
