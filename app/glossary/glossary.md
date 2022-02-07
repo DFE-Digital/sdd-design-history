@@ -139,6 +139,8 @@ Funding agreement ( FA )
 </br>
 
 ## G
+Government Digital Service (GDS) 
+: Part of the Cabinet Office working on delivering platforms, products and services that help government to become joined-up, trusted and responsive to user needs.
 
 Get Information About Schools ( GIAS )
 : this is a register of schools and colleges in England. You can use GIAS to search for and download information on establishments, establishment groups (such as a local authority, trust or federation) or governors.
