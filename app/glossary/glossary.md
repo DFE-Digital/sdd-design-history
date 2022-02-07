@@ -206,13 +206,26 @@ Management Information ( MI )
 </br>
 
 ## N
+
+National programmes and projects division (NPPD)
+: help academy trusts and maintained schools realise good financial health and robust governance through the delivery of national programmes and services. 
+
+The NPPD comprises 3 G6 led units: 
+* National Delivery Unit (NDU) 
+* University Technical Colleges national team (UTC) 
+* Academy Complaints and Customer Insight Unit (ACCIU) 
+
 Notice To Improve (NTI)
 : When a case becomes very serious for a trust, a Notice To Improve is issued. If the conditions laid out are not met, the trust could be closed down.
 
 </br>
 
 ## O
+
 ## P
+
+Performance Operational Policy and Strategy (POPS)
+: develop and deliver operational policy for academy financial and governance oversight, provide data charting the directorate’s performance, and lead the governance of the ESFA as an organisation.
 
 Post academy order ( post AO )
 : this is the phase of the academy conversion process that comes after the Secretary of State issues a school with an academy order.
@@ -269,6 +282,9 @@ Risk Protection Arrangement ( RPA )
 
 School Resource Management Advisor ( SRMA )
 : A school management expert who is paid to go into a trust/academy and advise on how they can be more efficient.
+
+School Resource Management Division (SRM)
+: Four teams who help schools improve outcomes for pupils by making every pound count. Includes practical support and guidance for schools and academies to help reduce costs on regular purchases and recruitment, so they can invest their resources into areas that improve pupil outcomes.
 
 School System Infrastructure Directorate ( SSID )
 : Responsible for managing policy in the running of academy trusts.
