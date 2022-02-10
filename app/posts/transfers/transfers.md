@@ -34,3 +34,4 @@ Designing and developing a service for RDD delivery officers to manage the proce
 
 ## Private Beta changes
 * [Set transfer dates](set-transfer-dates/)
+* [Benefits and risks](benefits-and-risks/)
