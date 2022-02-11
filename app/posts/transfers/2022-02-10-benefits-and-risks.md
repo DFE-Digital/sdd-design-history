@@ -6,34 +6,74 @@ date: 2021-10-27
 
 We learned from delivery officer research that the name [Benefits and other factors](https://academy-transfers-prototype.london.cloudapps.digital/version-4/pre-htb/school-1/benefits-and-other-factors) doesn't resonate with the delivery officers in the Manage an academy transfer service when they complete a project template.
 
-Here is a snippet from one of our user interviews:
+Here is a snippet from one of our user research interviews:
 
-“[Delivery officer]: can I click on other factors?”
-“[Interviewer]: is that clear to you?”
-“[Delivery officer]: no, those things listed would be risks”
+>“[Delivery officer]: can I click on other factors?”
+>“[Interviewer]: is that clear to you?”
+>“[Delivery officer]: no, those things listed would be risks”
 
-## Why we have included this task in the service
+![When was the transfer first discussed with a trust](/images/transfers/benefits-and-risks/image-1.png)
 
-![Set transfer dates](/images/transfers/set-transfer-dates/set-transfer-dates.png)
+Screenshot of proposed title for Benefits and other factors task.
 
-### User need
-**As a** delivery officer working on Managing an academy transfer
-**I need** to understand the timelines agreed for the project delivery
-**So that** I can effectively manage the project to meet its deadline
+The current project template used by delivery officers asks about the benefits and risks of the transfer: other factors are not asked for. To make it easier for delivery officers to understand and complete their project template, we renamed Benefits and other factors to Benefits and risks.
 
-## Pre-private beta user research insights
-* The title could be key dates
-* It is very hard to remember, the conversation started way back
-* I would get rid of the date and keep just the month
+We believe that changing this content to reflect the task a delivery officer needs to complete will give them better confidence when interacting with this section.
 
-## Giving an option for users to declare date unknown
 
-Before
-![When was the transfer first discussed with a trust](/images/transfers/set-transfer-dates/before.png)
+## How we ask about risks
 
-After
-![When was the transfer first discussed with a trust](/images/transfers/set-transfer-dates/after.png)
+To make the questions clearer and relevant to the delivery officer, we made an update to the way we are asking the risks associated with the transfer.
 
-## Expected result
+Rather than asking the delivery officer “Are there any other factors to consider during this transfer”, we changed the question to: "**Are there any risks to consider for this transfer?**”. If the delivery officer answers yes to the question, we then ask the delivery officer a follow up question to select the risks associated with the transfer.
 
-We are confident that the additional option to declare "I do not know this" will help our users to complete this task with ease. We will monitor the usage of this question and update further insights as we reach out to more users.
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-2.gif)
+
+Benefits and risks task page
+
+## Screenshots
+
+[Benefits and risks task page](#benefits-and-risks-summary-page)
+[Are there any risks to consider](#are-there-any-risks-to-consider)
+[What are the risks associated with this transfer](#what-are-the-risks-associated-with-this-transfer)
+[Why is this a high profile transfer](#why-is-this-a-high-profile-transfer)
+[What complex land and building issues are there](#what-complex-land-and-building-issues-are-there)
+[What other risks are there](#what-other-risks-are-there)
+[Updated summary page for benefits and risks](#updated-summary-page-for-benefits-and-risks)
+
+
+
+
+### Benefits and risks summary page
+
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-3.png)
+
+### Are there any risks to consider
+
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-4.png)
+
+### What are the risks associated with this transfer
+
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-5.png)
+
+### Why is this a high profile transfer
+
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-6.png)
+
+### What complex land and building issues are there
+
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-7.png)
+
+### What other risks are there
+
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-8.png)
+
+### Updated summary page for benefits and risks
+
+![Benefits and risks task page](/images/transfers/benefits-and-risks/image-9.png)
+
+
+
+## Github tag
+
+[Github tag – v1.1](https://github.com/DFE-Digital/sdd-services-prototype/releases/tag/v1.1)
