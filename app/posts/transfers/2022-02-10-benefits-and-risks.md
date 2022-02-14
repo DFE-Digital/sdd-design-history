@@ -4,7 +4,7 @@ description: Why we changed a service task name from Benefits and other factors
 date: 2021-10-27
 ---
 
-We learned from delivery officer research that the name [Benefits and other factors](https://academy-transfers-prototype.london.cloudapps.digital/version-4/pre-htb/school-1/benefits-and-other-factors) doesn't resonate with the delivery officers in the Manage an academy transfer service when they complete a project template.
+We learned from user research that the name "Benefits and other factors" doesn't resonate with the delivery officers in the Manage an academy transfer service.
 
 Here is a snippet from one of our user research interviews:
 
@@ -18,7 +18,7 @@ Screenshot of proposed title for Benefits and other factors task.
 
 The current project template used by delivery officers asks about the benefits and risks of the transfer: other factors are not asked for. To make it easier for delivery officers to understand and complete their project template, we renamed Benefits and other factors to Benefits and risks.
 
-We believe that changing this content to reflect the task a delivery officer needs to complete will give them better confidence when interacting with this section.
+We believe that changing this content to reflect the task a delivery officer needs to complete will give them more confidence when interacting with this section.
 
 
 ## How we ask about risks
@@ -33,7 +33,7 @@ Benefits and risks task page
 
 ## Screenshots
 
-[Benefits and risks task page](#benefits-and-risks-summary-page)
+[Benefits and risks summary page](#benefits-and-risks-summary-page)
 [Are there any risks to consider](#are-there-any-risks-to-consider)
 [What are the risks associated with this transfer](#what-are-the-risks-associated-with-this-transfer)
 [Why is this a high profile transfer](#why-is-this-a-high-profile-transfer)
