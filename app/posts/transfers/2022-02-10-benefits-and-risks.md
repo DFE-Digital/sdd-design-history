@@ -4,7 +4,7 @@ description: Why we changed a service task name from Benefits and other factors
 date: 2021-10-27
 ---
 
-We learned from user research that the name "Benefits and other factors" doesn't resonate with the delivery officers in the Manage an academy transfer service.
+We learned from user research that the name Benefits and other factors doesn't resonate with the delivery officers in the Manage an academy transfer service.
 
 Here is a snippet from one of our user research interviews:
 
@@ -27,15 +27,11 @@ To make the questions clearer and relevant to the delivery officer, we made an u
 
 Rather than asking the delivery officer “Are there any other factors to consider during this transfer”, we changed the question to: "**Are there any risks to consider for this transfer?**”. If the delivery officer answers yes to the question, we then ask the delivery officer a follow up question to select the risks associated with the transfer.
 
-![Benefits and risks task page](/images/transfers/benefits-and-risks/image-2.gif)
-
-Benefits and risks task page
-
 ## Screenshots
 
 [Benefits and risks summary page](#benefits-and-risks-summary-page)
 [Are there any risks to consider](#are-there-any-risks-to-consider)
-[What are the risks associated with this transfer](#what-are-the-risks-associated-with-this-transfer)
+[What are the risks with this transfer](#what-are-the-risks-with-this-transfer)
 [Why is this a high profile transfer](#why-is-this-a-high-profile-transfer)
 [What complex land and building issues are there](#what-complex-land-and-building-issues-are-there)
 [What other risks are there](#what-other-risks-are-there)
@@ -52,7 +48,7 @@ Benefits and risks task page
 
 ![Benefits and risks task page](/images/transfers/benefits-and-risks/image-4.png)
 
-### What are the risks associated with this transfer
+### What are the risks with this transfer
 
 ![Benefits and risks task page](/images/transfers/benefits-and-risks/image-5.png)
 
