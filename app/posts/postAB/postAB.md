@@ -14,7 +14,7 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 5
+    order: 6
 ---
 
 ## How we conduted the discovery work for post-advisory board from AT and A2B landscape
