@@ -2,7 +2,7 @@
 tags: posts
 layout: collection
 title: Manage an academy conversion
-description: An internal service for DfE colleagues to manage applications from schools applying to become academies.
+description: An internal product for DfE colleagues to manage applications from schools applying to become academies.
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
