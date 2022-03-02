@@ -1,8 +1,8 @@
 {
   "tags": [
-    "apply-to-become"
+    "a2b-external"
   ],
   "eleventyNavigation": {
-    "parent": "Apply to become"
+    "parent": "Apply to become an academy"
   }
 }
