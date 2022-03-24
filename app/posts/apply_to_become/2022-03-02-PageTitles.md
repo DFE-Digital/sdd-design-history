@@ -32,7 +32,7 @@ To begin with, we hoped that we could use a script to take the main heading from
 
 Unfortunately, many of our current headings were not descriptive or meaningful enough to use as titles. 
 
-![Some of our headings would be unsuitable as titles.](/images/a2become/PageTitles/further_information.JPG "A screen grab from on of the services pages. It has a heading that reads 'Further information'.")
+![Some of our headings would be unsuitable as titles.](/images/a2become/PageTitles/further_information.JPG "A screen grab from one of the service's pages. It has a heading that reads 'Further information'.")
 
 ### What we decided to do
 Fixing all of the existing page headings would need to be done as part of bigger service redesign. So instead we chose to  manually draw up a list of temporary replacement tags for every page. 
