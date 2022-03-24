@@ -32,7 +32,6 @@ To begin with, we hoped that we could use a script to take the main heading from
 
 Unfortunately, many of our current headings were not descriptive or meaningful enough to use as titles. 
 
-![Some of our headings would be unsuitable as titles.](/images/a2become/PageTitles/further_information.JPG "A screen grab from one of the service's pages. It has a heading that reads 'Further information'.")
 
 ### What we decided to do
 Fixing all of the existing page headings would need to be done as part of bigger service redesign. So instead we chose to  manually draw up a list of temporary replacement tags for every page. 
@@ -42,9 +41,9 @@ Fixing all of the existing page headings would need to be done as part of bigger
 
 ### Why we chose this approach
 
-This approach was time consuming, but we felt it was he only option given:
+This approach was time consuming, but we felt it was the only option, given:
 
-- this was a current accessibility issue that needed to be resolved quickly
+- this was an accessibility issue that needed to be resolved quickly
 - any alteration to a page's heading would be a waste of time if the page is later removed or reworked as part of ongoing design changes
 
  ## Link to prototype
