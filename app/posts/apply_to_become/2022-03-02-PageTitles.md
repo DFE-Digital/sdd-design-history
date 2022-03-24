@@ -27,12 +27,14 @@ We want to be consistent with what our colleagues in the other teams have done, 
 
 > ‘Name of the new trust – Apply to become an academy’.
 
+### What we wanted to do
 To begin with, we hoped that we could use a script to take the main heading from each page, combine it with the name of the service and use that to replace the existing text in the tag. 
 
 Unfortunately, many of our current headings were not descriptive or meaningful enough to use as titles. 
 
 ![Some of our headings would be unsuitable as titles.](/images/a2become/PageTitles/further_information.JPG "A screen grab from on of the services pages. It has a heading that reads 'Further information'.")
 
+### What we decided to do
 Fixing all of the existing page headings would need to be done as part of bigger service redesign. So instead we chose to  manually draw up a list of temporary replacement tags for every page. 
 
 
