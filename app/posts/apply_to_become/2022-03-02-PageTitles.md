@@ -27,7 +27,7 @@ We want to be consistent with what our colleagues in the other teams have done, 
 
 > ‘Name of the new trust – Apply to become an academy’.
 
-To begin with, we hoped that we could use a script to take the main heading from each page, combine it with the name of the service and add feed it into the title tags. 
+To begin with, we hoped that we could use a script to take the main heading from each page, combine it with the name of the service and use that to replace the existing text in the tag. 
 
 Unfortunately, many of our current headings were not descriptive or meaningful enough to use as titles. 
 
