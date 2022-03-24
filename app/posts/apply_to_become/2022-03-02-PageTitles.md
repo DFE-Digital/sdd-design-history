@@ -25,7 +25,7 @@ To make matters worse, what it says is not descriptive.
 ## Our solution
 We want to be consistent with what our colleagues in the other teams have done, presenting the page name followed by the name of the service.
 
-> ‘Name of the new trust – Apply to become an academy’.
+> Other SDD services use pages titles like 'Home - Manage an academy transfer'.
 
 ### What we wanted to do
 To begin with, we hoped that we could use a script to take the main heading from each page, combine it with the name of the service and use that to replace the existing text in the tag. 
