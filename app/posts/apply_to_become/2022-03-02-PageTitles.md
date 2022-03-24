@@ -13,7 +13,7 @@ Web pages, like the ones used in the Apply to become an academy service, should 
 
 You can see the page’s title in the browser tab's text.
 
-![The current text shown in a browser tab.](/images/a2become/titles/current_copy.jpeg "An image of the service's current title text shown in a browser tab. It reads 'A2C - GOV.UK'")
+![The current text shown in a browser tab.](/images/a2become/PageTitles/current_copy.JPG "An image of the service's current title text shown in a browser tab. It reads 'A2C - GOV.UK'")
 
 ## Action required
 - Title tags should be updated so that they meaningfully describe what their page is about.
@@ -27,12 +27,12 @@ To begin with, we hoped that we could use a script to take the main heading from
 
 Unfortunately, many of our current headings were not descriptive or meaningful enough to use as titles. 
 
-![Some of our headings would be unsuitable as titles.](/images/a2become/titles/further_information.jpeg "A screen grab from on of the services pages. It has a heading that reads 'Further information'.")
+![Some of our headings would be unsuitable as titles.](/images/a2become/PageTitles/further_information.JPG "A screen grab from on of the services pages. It has a heading that reads 'Further information'.")
 
 Fixing all of the existing page headings would need to be done as part of bigger service redesign. So instead we chose to  manually draw up a list of temporary replacement tags for every page. 
 
 
-![We decided to draw up a list of replacement titles.](/images/a2become/titles/title_copy.jpeg "A screen grab of a spreadsheet showing a list of page titles and URLs")
+![We decided to draw up a list of replacement titles.](/images/a2become/PageTitles/title_copy.JPG "A screen grab of a spreadsheet showing a list of page titles and URLs")
 
 ## Rationale 
 
