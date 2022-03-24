@@ -42,9 +42,9 @@ Fixing all of the existing page headings would need to be done as part of bigger
 
 ### Why we chose this approach
 
-This approach was time consuming, but we felt it was he only option given:
+This approach was time consuming, but we felt it was the only option, given:
 
-- this was a current accessibility issue that needed to be resolved quickly
+- this was an accessibility issue that needed to be resolved quickly
 - any alteration to a page's heading would be a waste of time if the page is later removed or reworked as part of ongoing design changes
 
  ## Link to prototype
