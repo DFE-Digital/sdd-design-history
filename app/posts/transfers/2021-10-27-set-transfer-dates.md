@@ -1,6 +1,6 @@
 ---
 title: Set transfer dates
-description:
+description: Giving an option for users to declare date unknown
 date: 2021-10-27
 ---
 

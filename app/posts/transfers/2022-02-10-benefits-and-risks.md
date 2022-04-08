@@ -1,7 +1,7 @@
 ---
 title: Benefits and risks
 description: Why we changed a service task name from Benefits and other factors
-date: 2021-10-27
+date: 2022-02-10
 ---
 
 We learned from user research that the name Benefits and other factors doesn't resonate with the delivery officers in the Manage an academy transfer service.
