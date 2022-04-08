@@ -1,9 +1,14 @@
 ---
-tags: posts
-layout: page
+layout: collection
 title: Manage an academy transfer
 description: An internal service to help DfE delivery leads to Manage an academy transfer from one trust to an other.
+pagination:
+  data: collections.transfers
+  reverse: true
+  size: 50
 permalink: "transfers/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+override:tags:
+  - posts
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -11,27 +16,3 @@ eleventyComputed:
     parent: home
     order: 3
 ---
-
-## Project vision
-
-Make it easy and efficient as possible to successfully transfer an academy to a new trust, where it will thrive
-
-## The problem we are trying to solve
-
-The process to transfer an academy from one trust to an other is currently complex, time consuming, variable and unclear.
-
-## Our hypothesis
-
-Designing and developing a service for RDD delivery officers to manage the process of transferring an academy from one trust to an other using TRAMS api and GDS front-end will make the process easier and accessible to our users.
-
-
-## Iterations
-
-* [Discovery Prototype](academy-transfers-prototype/)
-* [Experimenting with Variants](variants/)
-* [Choosing a starting page](choosing/)
-* [Adopting a projects overview style](project/)
-
-## Private Beta changes
-* [Set transfer dates](set-transfer-dates/)
-* [Benefits and risks](benefits-and-risks/)
