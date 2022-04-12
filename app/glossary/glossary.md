@@ -180,6 +180,9 @@ Knowledge and Information Management ( KIM )
 Land questionnaire
 : this should be filled out by the school or trust’s solicitors during a conversion. It's used to establish how the school’s land is currently managed and how it will transfer from the local authority or owner of the land to the trust. It needs to be completed after the HTB meeting when the conversion has been approved.
 
+Land and Buildings Collection Tool (LBCT)
+: The land and buildings collection tool collects information about all of the land and buildings used by academy trusts and their academies. It’s a snapshot of the trust’s land and assets.
+
 Legal Advisor's Office ( LAO )
 : this team can give delivery officers advice if they are dealing with a conversion or transfer that has complex legal issues.
 
