@@ -1,0 +1,72 @@
+---
+title: Test title template
+description: learning how to use markdown  
+date: 2022-03-02
+---
+
+# Heading 1
+Paragraph
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus arcu bibendum at varius. Ornare arcu dui vivamus arcu felis. Nunc faucibus a pellentesque sit amet porttitor eget dolor morbi. Sed enim ut sem viverra aliquet. Aliquet risus feugiat in ante. Malesuada fames ac turpis egestas maecenas pharetra convallis. Leo in vitae turpis massa sed. 
+
+Quis vel eros donec ac odio tempor orci dapibus. Pharetra sit amet aliquam id diam. Tristique nulla aliquet enim tortor at auctor urna nunc. Cras sed felis eget velit. Diam ut venenatis tellus in metus vulputate eu scelerisque. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Faucibus nisl tincidunt eget nullam non. Aenean euismod elementum nisi quis eleifend.
+***
+## format text
+
+**bold**
+_Italic_
+***bold and italic***
+
+---
+
+## Heading2
+
+### Heading 3 - Ordered list
+1. item
+2. item
+   1. indented item
+   2. indented item
+3. item
+
+### Heading 3 - Unordered list
+- item 1
+- item 2
+  - indented item
+  - indente item
+- ✨Magic ✨
+***
+## Heading 2
+> Blockquote text here. 
+>_Quis vel eros donec ac odio tempor orci dapibus. Pharetra sit amet aliquam id diam. Tristique nulla aliquet enim tortor at auctor urna nunc. Cras sed felis eget velit. Diam ut venenatis tellus in metus vulputate eu scelerisque._
+
+### How to use links
+
+[Mark down guide](https://www.markdownguide.org/basic-syntax/) - this is a link 
+
+[Back to top: Format Text](#format-text)
+
+## Link to prototype
+See this componen in action
+[Prototype](https://escorci-apply2become.herokuapp.com/index.html) 
+Username: apply
+Password: 2become 
+
+## Images
+
+![footbridge in Cambridge](/images/a2become/test-post/Footbridge.jpg "alt text footbridge in Cambridge")
+
+
+<div class="app-back-to-top app-back-to-top--hidden" data-module="app-back-to-top">
+  <a class="govuk-link govuk-link--no-visited-state app-back-to-top__link" href="#top">
+    <svg role="presentation" focusable="false" class="app-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="10" viewBox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg> Back to top
+  </a>
+</div>
+
+<script>
+    document.write('<a href="' + document.referrer + '">< Go back to previous page</a>');
+</script>
+
+
+<br><br>
+<a class="govuk-link" href="/a2b-external/"> < Go back to design histories</a>
