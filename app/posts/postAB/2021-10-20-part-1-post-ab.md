@@ -1,6 +1,6 @@
 ---
-title: Starting post AB transfers and conversions – Part 1
-description:
+title: Post AB swarm work
+description: The swarm was created to start a small discovery on what we knew in the post-AB space whilst the rest of the team continued in the pre-AB space.
 date: 2021-10-20
 ---
 ### Date the work was done

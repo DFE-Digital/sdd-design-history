@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Post advisory board
-description: Documenting the joint work carried out by the transfers and conversion teams on post advisory board discovery.
+description: Documenting the work done in the post-AB part of the process.
 pagination:
   data: collections.postAB
   reverse: true
@@ -17,9 +17,4 @@ eleventyComputed:
     order: 6
 ---
 
-## How we conduted the discovery work for post-advisory board from AT and A2B landscape
 
-The post-advisory board discovery work is split into two parts:
-
-* Part 1 - focusses on synthesising the existing research to create 'as is' user journeys and identifying the pain points for delivery officers
-* Part 2 - will focus on understanding the busness needs from teams within RDD
