@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Post advisory board
-description: Documenting the work done in the post-AB part of the process.
+description: An internal service helping DfE Delivery Officers convert a school to an academy, transfer an academy from one Trust to another, or make a change to an academy after the proposal has been approved by the Regional Director.
 pagination:
   data: collections.postAB
   reverse: true
