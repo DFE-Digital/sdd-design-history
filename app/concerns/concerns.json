@@ -3,6 +3,6 @@
     "concerns"
   ],
   "eleventyNavigation": {
-    "parent": "Concerns Casework"
+    "parent": "Home"
   }
 }
