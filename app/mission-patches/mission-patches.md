@@ -11,15 +11,31 @@ eleventyComputed:
     parent: home
 ---
 
-A Place to add all the work we have done on mission patches.
+
+{% from "gallery/macro.njk" import appGallery with context %}
+
 
 ## Manage an academy transfer
-<img src="/images/mission-patches/Manage-an-academy-transfer-960x640.png" alt="Mission sticker of Manage an academy transfer project in SDD">
+
+The mascot for Manage an academy conversion is a camel. We chose a camel because it reflects our core team. Camels are adaptive creatures, they are strong and compassionate (and very attractive). The camel also symbolises the nature of our service, a vehicle to help lighten heavy loads.
+
+{{ appGallery({
+  items: [{
+    text: "Apply for teacher training SCITT Pilot",
+    caption: "This patch celebrated the efforts of the manage an academy transfers team in the pre-advisory private beta part of the service"
+  } ]
+}) }}
+
+{% from "gallery/macro.njk" import appGallery with context %}
 
 
 ## Manage an academy conversion
-The mascot for Manage an academy conversion is a camel. We chose a camel because it reflects our core team. Camels are adaptive creatures, they are strong and compassionate (and very attractive). The camel also symbolises the nature of our service, a vehicle to help lighten heavy loads.
 
+The mascot for Manage an academy conversion is a cat fish. 
 
-
-
+{{ appGallery({
+  items: [{
+    text: "Apply for an academy conversion private beta for pre-advisory board",
+    caption: "This patch celebrated the hard work that went into the pre-advisory board part of the manage an academy conversion product"
+  } ]
+}) }}
