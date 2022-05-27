@@ -1,6 +1,6 @@
 ---
 title: Getting to our minimal viable product (MVP)
-description: It was hard to get started in the post-advisory board space. Delivery Officers (our users) have had to create many workarounds. They use spreadsheets and Word documents to manage their projects. They feel that's easier than using the existing tools that have.
+description: We’ve run co-design workshops with our users, carried out user research and taken part in collaborative team workshops to understand and define our MVP.
 date: 2022-05-26
 ---
 
@@ -10,7 +10,7 @@ We’ve run co-design workshops with our users, carried out user research and ta
 March to May 2022
 
 ## Getting to MVP
-It was hard to get started in the post-advisory board space. Delivery Officers (our users) have had to create many workarounds. They use spreadsheets and Word documents to manage their projects. They feel that's easier than using the existing tools that have.
+It was hard to get started in the post-advisory board space. Delivery Officers (our users) have had to create many workarounds. They use spreadsheets and Word documents to manage their projects. They feel that's easier than using the existing tools they have.
 
 The existing tools are slow to load and instructions are unclear. Users don't have a central place to access and update all the information they need.They need to enter the same information in several locations. They update their own personal workarounds and the existing civil service tools.
 
@@ -30,13 +30,13 @@ Our first workshop was with Operational Delivery Team (ODT) Delivery Officers. W
 Participants response to our requests for them to describe our service<br /><br />
 
 <img src="/images/postAB/getting-to-MVP/2_how_might_we.png" alt="Screenshot responses to 'How might we statements' ">
-We asked participants to respond to our most pressing 'how might we' statements<br /><br />
+We asked participants to respond to our most pressing 'How might we?' statements<br /><br />
 
 <img src="/images/postAB/getting-to-MVP/3_themes.png" alt="Screenshot of the themese created from the how might we statements">
-Themes created from the 'How might we statements'<br /><br />
+Themes created from the 'How might we?' statements<br /><br />
 
 <img src="/images/postAB/getting-to-MVP/4_data_mapping.png" alt="Screenshot of the data mapping exercise">
-We asked users to map data collection to the most batural point in the process<br /><br />
+We asked users to map data collection to the most natural point in the process<br /><br />
 
 <img src="/images/postAB/getting-to-MVP/5_wireframes.png" alt="Screenshot of the data mapping exercise">
 We collected feedback from our 'straw man' wireframes<br /><br />
@@ -59,20 +59,20 @@ The second workshop was with regional delivery officers. We hoped this this work
 - The structure of this workshop was like the first
 - This time, rather than showing wire frames, we showed a page listing projects. We then asked them to design what comes next.
  
-There were the outcomes of the first two teans when asked, what should come next:
+When we asked the two teams what they thought should come next, they gave us some ideas and helped formulate a basic design.
 
 <img src="/images/postAB/getting-to-MVP/teamA.png" alt="Team A's list of what should come next">
-Teams A's list of what should come after a list of projects<br /><br />
+Team A's ideas of what should come after a list of projects<br /><br />
 
 <img src="/images/postAB/getting-to-MVP/teamB.png" alt="Team B's list of what should come next">
-Teams B's list of what should come after a list of projects<br /><br />
+Team B's ideas of what should come after a list of projects<br /><br />
 
 ### What we learnt
  What we found from this workshop was:
  - The need to make it easier to work on mutiple projects at the same time to meet deadlines was the most important to them.
 - Although users didn't use the term 'checklist' they did talk about needing to see progress, seeing what tasks are left to do and seeing deadlines.
 - They would need the ability to modify a list to make it suitable for the project they are working on.
-- regional delivery officers would also like to see a service where external stakeholders can upload their own data.
+- Regional delivery officers would also like to see a service where external stakeholders can upload their own data.
 - Contact details for all stakeholders are really important to them.
 
 
@@ -82,6 +82,7 @@ Teams B's list of what should come after a list of projects<br /><br />
 In April, we met the ODT Delivery Officers for a face-to-face collaborative workshop.
 
 In this workshop, we wanted to:
+
 - Prioritise user needs
 - Find out if our initial design ideas were helpful to users
 - Get feedback from users on those initial design ideas
@@ -90,6 +91,7 @@ This wasn’t intended as a way of asking users which design they wanted. We int
 
 ### Voting on and prioritising user needs
 We asked the Delivery Officers to vote on 10 user needs generated from our earlier research.
+
 The most popular needs were:
 
 - Have the most up-to-date, concise guidance so I’m confident I’m following the right process and doing the right thing **15 votes**
@@ -144,13 +146,16 @@ This helped us to create a longlist of potential features, content and design so
 
 ### Scoring solutions for MVP
 We worked together to score items on the longlist to prioritise what should be in the MVP.
+
 We scored items using the following criteria:
+
 - Will it add value to the users?
 - Do they need it straight away?
 - Does it meet the organisation’s needs?​
 
 ### Features of our MVP
 From that session, we decided that our MVP would:
+
 - Import advisory board approved projects to our part of the service
 - Carry over project information from the pre-advisory board part of the service
 - Automatically generate the correct task list for the project type
@@ -169,13 +174,13 @@ Scoring our features to decide on our MVP<br /><br />
 We've used the findings to begin building a click-through prototype in Figma.
 The click-through concentrates on a couple of pages for now. This will help us focus our research on the task list concept so we can test and iterate that. We’ve created other pages to give the task list context.
 
-<img src="/images/postAB/getting-to-MVP/projects-list.png" alt="List of projects">
+<img src="/images/postAB/getting-to-MVP/project list page.png" alt="List of projects">
 List of projects<br /><br />
 
-<img src="/images/postAB/getting-to-MVP/task-list.png" alt="Task list page">
+<img src="/images/postAB/getting-to-MVP/project task list page.png" alt="Task list page">
 Task list page<br /><br />
 
-<img src="/images/postAB/getting-to-MVP/project-information.png" alt="Project information page">
+<img src="/images/postAB/getting-to-MVP/project overview.png" alt="Project information page">
 Project information page<br /><br />
 
 <img src="/images/postAB/getting-to-MVP/checklist.png" alt="Example of a check list task">
