@@ -20,12 +20,12 @@ To make matters worse, what they said wasn't helpful.
 ![The current text shown in a browser tab.](/images/a2become/PageTitles/current_copy.JPG "An image of the service's current title text shown in a browser tab. It reads 'A2C - GOV.UK'")
 
 ### Action required
-- Each of the service's title tags should be updated so that they meaningfully describe what the page is about.
+- Each of the service's title tags should be updated so that they describe what the page is about
   
 ## Our solution
 We wanted to be consistent with what our colleagues in the other teams have done - presenting the page name followed by the name of the service.
 
-> Other SDD services use pages titles like 'Home - Manage an academy transfer'.
+> Other SDD services use pages titles like 'Home - Manage an academy transfer'
 
 ### What we wanted to do
 We hoped that we could use a script to take the main heading from each page, combine it with the name of the service and replace the existing text in the tag with the result. 
