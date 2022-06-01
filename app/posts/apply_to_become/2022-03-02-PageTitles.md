@@ -25,7 +25,7 @@ To make matters worse, what they said wasn't helpful.
 ## Our solution
 We wanted to be consistent with what our colleagues in the other teams have done - presenting the page name followed by the name of the service.
 
-> Other SDD services use pages titles like 'Home - Manage an academy transfer'
+> Other SDD services use titles like 'Home - Manage an academy transfer'
 
 ### What we wanted to do
 We hoped that we could use a script to take the main heading from each page, combine it with the name of the service and replace the existing text in the tag with the result. 
