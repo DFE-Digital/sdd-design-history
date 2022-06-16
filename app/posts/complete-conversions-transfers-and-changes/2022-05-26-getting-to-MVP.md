@@ -12,7 +12,7 @@ March to May 2022
 ## Getting to MVP
 It was hard to get started in the post-advisory board space. Delivery Officers (our users) have had to create many workarounds. They use spreadsheets and Word documents to manage their projects. They feel that's easier than using the existing tools they have.
 
-The existing tools are slow to load and instructions are unclear. Users don't have a central place to access and update all the information they need.They need to enter the same information in several locations. They update their own personal workarounds and the existing civil service tools.
+The existing tools are slow to load and instructions are unclear. Users don't have a central place to access and update all the information they need. They need to enter the same information in several locations. They update their own personal workarounds and the existing civil service tools.
 
 These issues make Delivery Officers' work much harder and more time consuming than it needs to be. There is so much we could do to make things better that it was a difficult to task to prioritise where to start.
 
@@ -172,7 +172,10 @@ Scoring our features to decide on our MVP<br /><br />
 
 ## MVP click-through
 We've used the findings to begin building a click-through prototype in Figma.
-The click-through concentrates on a couple of pages for now. This will help us focus our research on the task list concept so we can test and iterate that. We’ve created other pages to give the task list context.
+
+The click-through concentrates on a couple of pages for now. This will help us focus our research on the task list concept so we can test and iterate that.
+
+We’ve created other pages to give the task list context.
 
 <img src="/images/postAB/getting-to-MVP/project list page.png" alt="List of projects">
 List of projects<br /><br />
