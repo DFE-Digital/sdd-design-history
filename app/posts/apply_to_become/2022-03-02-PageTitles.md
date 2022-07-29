@@ -15,7 +15,7 @@ They can tell a user's screen reading software which page they are on whenever t
 
 An audit found that the title tags used in the Apply to become an academy service were the same for every page. 
 
-To make matters worse, what they said wasn't helpful. 
+To make matters worse, what they said was unhelpful. 
 
 ![The current text shown in a browser tab.](/images/a2become/PageTitles/current_copy.JPG "An image of the service's current title text shown in a browser tab. It reads 'A2C - GOV.UK'")
 
