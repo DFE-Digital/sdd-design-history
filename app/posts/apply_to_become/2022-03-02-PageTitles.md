@@ -1,7 +1,7 @@
 ---
 title: Meaningful page titles
 description: Pages should have titles that describe what they're about
-date: 2022-03-01
+date: 2022-03-02
 ---
 
 Good page titles help with orientation and can be useful for users of adaptive technology. 
