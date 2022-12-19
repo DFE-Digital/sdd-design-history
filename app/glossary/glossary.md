@@ -25,7 +25,7 @@ AMSD is made up of:
 - National Programme and Projects Division (NPPD)
 
 Academies Financial Handbook ( AFH )
-: Also known as the Academy Trust Handbook (ATH), academy trusts must comply with this handbook as a condition of their funding agreement. It provides an overarching framework for implementation of effective financial management and other controls, consistent with their obligations as publicly funded bodies. You can [view it online](https://www.gov.uk/guidance/academy-trust-handbook).
+: Also known as the Academy Trust Handbook (ATH), academy trusts must comply with this handbook as a condition of their funding agreement. It provides an overarching framework for implementation of effective financial management and other controls, consistent with their obligations as publicly funded bodies. You can [read the Academies Financial Handbook](https://www.gov.uk/guidance/academy-trust-handbook) online.
 
 Academy
 : a publicly funded independent school. They operate outside the local authority control. Academies receive funding directly from the government and are run by an academy trust. A local authority school can convert to become an academy school.
